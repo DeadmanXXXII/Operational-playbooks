@@ -5,6 +5,7 @@ A list of different positions I have  designed to be played in a red team.
 🕴️ Red Team Operational Playbook
 
 Operation Name: Frontman
+
 While they watch you they miss what's really happening.
 
 ---
