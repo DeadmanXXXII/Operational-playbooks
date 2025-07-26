@@ -8,6 +8,7 @@ Operation Name: Frontman
 
 While they watch you they miss what's really happening.
 
+"All eyez on me."
 ---
 
 🎯 Objective
